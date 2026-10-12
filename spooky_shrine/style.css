@@ -1,0 +1,25 @@
+body{
+background: #736565;
+background: linear-gradient(90deg, rgb(250, 251, 252) 0%, rgba(185, 201, 192, 1) 23%, rgba(156, 141, 199, 1) 82%);
+background-color: linear-gradient)0deg, rgba
+}
+
+header, main, aside, section{
+    border: rgb(152, 151, 150) 4px;
+    border-style:ridge;
+    padding: 60px;
+
+}
+
+aside{
+width: 30%;
+
+}
+
+section{
+    width: 70%;
+}
+
+
+
+

@@ -1,0 +1,13 @@
+#pumpkin {
+    width: 100%;
+}
+
+.eyes {
+    display:none;
+
+
+
+}
+.visible {
+    display: block;
+}
